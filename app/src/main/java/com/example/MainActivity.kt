@@ -225,14 +225,14 @@ private fun ShowcaseHudOverlay(
         ) {
           Icon(
             imageVector = Icons.Default.DirectionsCar,
-            contentDescription = "ApexGT 3D",
+            contentDescription = "SuperSuper",
             tint = ApexCrimson,
             modifier = Modifier.size(22.dp),
           )
           Spacer(modifier = Modifier.width(10.dp))
           Column {
             Text(
-              text = "APEXGT 3D",
+              text = "SUPERSUPER",
               fontFamily = OrbitronFamily,
               fontSize = 14.sp,
               color = TextPrimary,

@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "ApexGT 3D"
+rootProject.name = "SuperSuper"
 
 include(":app")

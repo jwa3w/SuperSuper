@@ -1,5 +1,5 @@
 {
-  "name": "ApexGT 3D",
+  "name": "SuperSuper",
   "description": "Hyperrealistic 3D C++ OpenGL ES car racing game and circuit track showcase with PBR shaders, dynamic weather, and real-time vehicle physics.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
